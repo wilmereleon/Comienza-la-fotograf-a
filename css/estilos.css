@@ -3,3 +3,12 @@ la página principla index.html*/
 body{
   font-family: 'Dancing Script',cursive;
 }
+/*Se elimina el estilo de subyadao que viene por defecto para los enlaces*/
+a.enlace{
+  text-decoration: none;
+}
+/*Se añade esta característica para que el título y los enlaces queden en
+la misma línea*/
+#header h1{
+  display: inline;
+}
