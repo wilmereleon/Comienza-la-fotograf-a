@@ -8,6 +8,16 @@ body{
 a.enlace{
   text-decoration: none;
 }
+/*******/
+/*Se le aplica alineado a la derecha, centrado en el «header», espaciado
+entre palabra y palabra y espaciado entre letra y letra*/
+#enlaces{
+  margin-top: 36px;
+  height: 90%;
+  float: right;
+  letter-spacing: 1px;
+  word-spacing: 30px;
+}
 /******/
 /*Se añade la caja a «Header»*/
 header{
@@ -22,7 +32,7 @@ header{
 - bordes en las esquinas superiores y
 - sombra.*/
 h1{
-  color: #02010a;
+  color: white;
   text-shadow: 2px 2px #02010a;
 }
 /*******/
@@ -32,25 +42,35 @@ la misma línea*/
   display: inline;
 }
 /******/
-/*Se añade la caja a «seccion/articule»*/
+/*Se añade la caja a «seccion/articule»
 section article{
   background-color: #82c3a6;
   height: 400px;
   width: 80%;
-}
+}*/
 /*******/
 
 #seccion1{
+  background-color: #82c3a6;
+  height: 400px;
+  width: 100%;
 
 }
 #seccion2{
+  background-color: #d5c75f;
+  height: 400px;
+  width: 100%;
 
 }
 #seccion1p{
-
+  background-color: #d5c75f;
+  height: 400px;
+  width: 100%;
 }
 #seccion1r{
-
+  background-color: #d5c75f;
+  height: 400px;
+  width: 100%;
 }
 /******/
 /*Se añade la caja a «footer»*/
