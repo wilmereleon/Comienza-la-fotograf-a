@@ -109,13 +109,13 @@ section article{
 }
 #seccion1p{
   background-color: #d5c75f;
-  height: 800px;
+  height: 880px;
   width: 100%;
 }
 /*******/
 #seccion1r{
   background-color: #d5c75f;
-  height: 800px;
+  height: 880px;
   width: 100%;
 }
 /******/
@@ -182,3 +182,86 @@ blog roll
     width: 10%;
     height: 10%;
   }
+  /*******/
+  /*Imágenes de paisajes*/
+  div.img2{
+    margin-top: 35px;
+    text-align: left;
+  	margin-left: 20px;
+    margin-right: 50px;
+  }
+  div.img3{
+    margin-top: 35px;
+    text-align: right;
+  	margin-right: 20px;
+  }
+  div.img4{
+    margin-top: 35px;
+    text-align: right;
+  	margin-right: 25px;
+    margin-left: 25px;
+  }
+  div.img5{
+    margin-top: 35px;
+    text-align: right;
+  	margin-right: 25px;
+    margin-left: 25px;
+  }
+  div.img6{
+    margin-top: 35px;
+    text-align: right;
+  	margin-right: 25px;
+    margin-left: 25px;
+  }
+  div.img7{
+    margin-top: 35px;
+    text-align: right;
+  	margin-right: 25px;
+    margin-left: 25px;
+  }
+  div.img8{
+    margin-top: 35px;
+    text-align: right;
+  	margin-right: 25px;
+    margin-left: 25px;
+  }
+  div.img9{
+    margin-top: 35px;
+    text-align: right;
+  	margin-right: 25px;
+    margin-left: 25px;
+  }
+/********/
+.preImg2{
+  width: 900px;
+  height: 700px;
+
+}
+.preImg3{
+  width: 900px;
+  height: 700px;
+}
+.preImg4{
+  width: 582px;
+  height: 382px;
+}
+.preImg5{
+  width: 582px;
+  height: 382px;
+}
+.preImg6{
+  width: 582px;
+  height: 382px;
+}
+.preImg7{
+  width: 582px;
+  height: 382px;
+}
+.preImg8{
+  width: 582px;
+  height: 382px;
+}
+.preImg9{
+  width: 582px;
+  height: 382px;
+}
