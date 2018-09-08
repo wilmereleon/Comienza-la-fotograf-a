@@ -54,7 +54,9 @@ section article{
   width: 80%;
 }*/
 /*******/
-
+#contenido{
+  display: flex;
+}
 #seccion1{
   background-color: #82c3a6;
   height: 800px;
@@ -62,35 +64,35 @@ section article{
 }
 /******/
 .pImg1{
-  margin: 36px;
+  margin-top: 36px;
+  margin-left: 200px;
+  margin-right: 200px;
   height: 700px;
-  width: 1800px;
+  width: 1500px;
 }
 /******/
 /******/
-.pImg2{
-  text-align: left;
-  height: 400px;
-  width: 600px;
+.preImg2{
+  width: 900px;
+  height: 600px;
+  margin: 36px
+}
+.preImg3{
+  width: 900px;
+  height: 600px;
+  margin: 36px
+}
+#imagen2{
+  float: left;
+}
+#imagen3{
+  float: right;
 }
 /******/
-/******/
-.pImg3{
-  text-align: right;
-  height: 400px;
-  width: 600px;
-}
-/******/
-#idFoto2{
-
-}
-#idFoto3{
-
-}
 /******/
 #seccion2{
   background-color: #d5c75f;
-  height: 600px;
+  height: 700px;
   width: 100%;
 /******/
 }
@@ -109,8 +111,62 @@ section article{
 /*Se añade la caja a «footer»*/
 footer{
   background-color: #C6d5c5;
-  height: 100px;
+  height: 400px;
   width: 100%;
   clear: both;
   border-radius: 0 0 10px 10px;
 }
+
+/*******/
+/*******/
+
+/*
+blog roll
+*******/
+
+#extras {
+  margin: 0;
+}
+
+#extras ul{
+  list-style: none;
+  margin: 0;
+}
+#extras li{
+  font-size: 1.429em;
+  margin-bottom: 0;
+  padding: 0 0;
+
+}
+#extras h2 {
+	font-size: 3.429em;
+	margin-bottom: .5em;
+	padding: 0 2px;
+}
+
+#extras a:hover, #extras a:active{
+
+}
+	#extras .blogroll{
+		float: left;
+		width: 470px;
+	}
+	#extras .blogroll li{
+    margin: 0;
+    width: 350px;
+  }
+	#extras .blogroll a:link, #extras .blogroll a:visited{
+		color: black;
+	}
+  img.redes1{
+    width: 10%;
+    height: 10%;
+  }
+  img.redes2{
+    width: 10%;
+    height: 10%;
+  }
+  img.redes3{
+    width: 10%;
+    height: 10%;
+  }
