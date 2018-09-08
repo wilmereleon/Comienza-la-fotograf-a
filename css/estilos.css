@@ -73,14 +73,20 @@ section article{
 /******/
 /******/
 .preImg2{
-  width: 900px;
+  width: 860px;
   height: 600px;
-  margin: 36px
+  margin-left: 36px;
+  margin-right: 36px;
+  margin-top: 36px;
+  margin-bottom: 20px;
 }
 .preImg3{
-  width: 900px;
+  width: 860px;
   height: 600px;
-  margin: 36px
+  margin-left: 36px;
+  margin-right: 36px;
+  margin-top: 36px;
+  margin-bottom: 20px;
 }
 #imagen2{
   float: left;
@@ -88,11 +94,16 @@ section article{
 #imagen3{
   float: right;
 }
+#pj{
+  text-align: center;
+  font-size: 40px;
+}
 /******/
+
 /******/
 #seccion2{
   background-color: #d5c75f;
-  height: 700px;
+  height: 740px;
   width: 100%;
 /******/
 }
