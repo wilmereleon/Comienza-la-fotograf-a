@@ -69,24 +69,27 @@ section article{
   margin-right: 200px;
   height: 700px;
   width: 1500px;
+  box-shadow: 2px 2px 0 0 #02010a;
 }
 /******/
 /******/
 .preImg2{
-  width: 860px;
-  height: 600px;
+  width: 850px;
+  height: 550px;
   margin-left: 36px;
-  margin-right: 36px;
+  margin-right: 10px;
   margin-top: 36px;
   margin-bottom: 20px;
+  box-shadow: 2px 2px 0 0 #02010a;
 }
 .preImg3{
-  width: 860px;
-  height: 600px;
-  margin-left: 36px;
+  width: 850px;
+  height: 550px;
+  margin-left: 10px;
   margin-right: 36px;
   margin-top: 36px;
   margin-bottom: 20px;
+  box-shadow: 2px 2px 0 0 #02010a;
 }
 #imagen2{
   float: left;
@@ -109,13 +112,13 @@ section article{
 }
 #seccion1p{
   background-color: #d5c75f;
-  height: 880px;
+  height: 890px;
   width: 100%;
 }
 /*******/
 #seccion1r{
   background-color: #d5c75f;
-  height: 880px;
+  height: 890px;
   width: 100%;
 }
 /******/
@@ -184,63 +187,65 @@ blog roll
   }
   /*******/
   /*Imágenes de paisajes*/
+  /*
   div.img2{
     margin-top: 35px;
     text-align: left;
   	margin-left: 20px;
     margin-right: 50px;
+    box-shadow: 2px 2px 0 0 #02010a;
   }
   div.img3{
     margin-top: 35px;
     text-align: right;
   	margin-right: 20px;
+    box-shadow: 2px 2px 0 0 #02010a;
   }
+  */
   div.img4{
     margin-top: 35px;
     text-align: right;
   	margin-right: 25px;
     margin-left: 25px;
+    box-shadow: 2px 2px 0 0 #02010a;
   }
   div.img5{
     margin-top: 35px;
     text-align: right;
   	margin-right: 25px;
     margin-left: 25px;
+    box-shadow: 2px 2px 0 0 #02010a;
   }
   div.img6{
     margin-top: 35px;
     text-align: right;
   	margin-right: 25px;
     margin-left: 25px;
+    box-shadow: 2px 2px 0 0 #02010a;
   }
   div.img7{
     margin-top: 35px;
     text-align: right;
   	margin-right: 25px;
     margin-left: 25px;
+    box-shadow: 2px 2px 0 0 #02010a;
   }
   div.img8{
     margin-top: 35px;
     text-align: right;
   	margin-right: 25px;
     margin-left: 25px;
+    box-shadow: 2px 2px 0 0 #02010a;
   }
   div.img9{
     margin-top: 35px;
     text-align: right;
   	margin-right: 25px;
     margin-left: 25px;
+    box-shadow: 2px 2px 0 0 #02010a;
   }
 /********/
-.preImg2{
-  width: 900px;
-  height: 700px;
 
-}
-.preImg3{
-  width: 900px;
-  height: 700px;
-}
 .preImg4{
   width: 582px;
   height: 382px;
