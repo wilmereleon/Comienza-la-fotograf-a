@@ -3,6 +3,12 @@ la página principla index.html*/
 body{
   font-family: 'Dancing Script',cursive;
 }
+/*******/
+/*Se añade esta característica para que el título y los enlaces queden en
+la misma línea*/
+#header h1{
+  display: inline;
+}
 /******/
 /*Se elimina el estilo de subyadao que viene por defecto para los enlaces*/
 a.enlace{
@@ -13,10 +19,12 @@ a.enlace{
 entre palabra y palabra y espaciado entre letra y letra*/
 #enlaces{
   margin-top: 36px;
+  margin-right: 36px;
   height: 90%;
   float: right;
   letter-spacing: 1px;
   word-spacing: 30px;
+  font-size: 30px;
 }
 /******/
 /*Se añade la caja a «Header»*/
@@ -32,14 +40,11 @@ header{
 - bordes en las esquinas superiores y
 - sombra.*/
 h1{
+  font-size: 60px;
   color: white;
   text-shadow: 2px 2px #02010a;
-}
-/*******/
-/*Se añade esta característica para que el título y los enlaces queden en
-la misma línea*/
-#header h1{
-  display: inline;
+  margin-top: 36px;
+  margin-left: 36px;
 }
 /******/
 /*Se añade la caja a «seccion/articule»
@@ -54,8 +59,12 @@ section article{
   background-color: #82c3a6;
   height: 400px;
   width: 100%;
-
 }
+/******/
+#img1{
+  text-align: center;
+}
+/******/
 #seccion2{
   background-color: #d5c75f;
   height: 400px;
